@@ -1,0 +1,17 @@
+diff b/w state management and hooks management(CLASSES VS FUNCTIONAL COMPONENTS).
+
+https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8 (ONLY HALF ARTICLE IS GOOD)
+
+https://reactjs.org/docs/hooks-overview.html  (GOOD)
+
+https://medium.com/@loons.create/react-hooks-how-to-use-usestate-and-useeffect-example-914c161df34d	
+
+Tutorial for Hooks Project Setup
+
+https://www.taniarascia.com/crud-app-in-react-with-hooks/
+
+
+
+practical with backend
+
+https://www.freecodecamp.org/news/state-management-with-react-hooks/
